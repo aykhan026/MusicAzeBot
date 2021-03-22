@@ -8,7 +8,7 @@ from ratemanager import Ratemanager
 import time # Library for avoid the bot end.
 import os # Library for get the environment variables.
  
-TOKEN = os.environ['DMUSICBOT'] # Our bot token (the one given to us by @BotFather)
+TOKEN = os.environ['1706436291:AAFv-0RGb8pOneGoKoYk_BWa3O3-aktfFvM'] # Our bot token (the one given to us by @BotFather)
  
 bot = telebot.TeleBot(TOKEN) # Create our bot object
 
