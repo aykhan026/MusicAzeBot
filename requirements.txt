@@ -4,3 +4,4 @@ python-telegram-bot
 bs4
 requests
 youtube-dl
+ffmpeg
