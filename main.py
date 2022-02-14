@@ -13,7 +13,7 @@ import logging
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = "1706436291:AAFv-0RGb8pOneGoKoYk_BWa3O3-aktfFvM"
+TOKEN =5109382247:AAFqHlzS_bDx0Lfkb00vLd423Qdup52UEcw
 
 dwn_msg = "/d youtube_video_url to download audio."
 srch_msg = "/s text to search for audio."
